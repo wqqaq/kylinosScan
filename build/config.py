@@ -1,0 +1,1 @@
+INSTALL_SCIPRT = 'build\\install.bat'

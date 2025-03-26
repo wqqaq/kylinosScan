@@ -1,0 +1,6 @@
+[INFO]--2024-12-03 17:08:48,610-controller.py->run line:70: [*]麒麟系统软件登录扫描完成，扫描文件 result.xlsx 已本地生成
+
+[DEBUG]--2024-12-03 17:08:48,611-controller.py->run line:71: [*]请使用 Nessus 整理工具导入 result.xlsx，形成基线文档
+
+[WARNING]--2024-12-03 17:08:48,611-controller.py->run line:72: [*]请项目组检查缺陷影响的软件包多个安装版本的情况，低版本 rpm 包未清除会导致漏洞无法修复
+

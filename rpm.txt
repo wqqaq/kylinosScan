@@ -1,0 +1,3 @@
+libwebp-1.1.0-5.ky10.x86_64
+python3-ptyprocess-0.3.0-2.ky10.noarch
+kernel-core-4.19.90-24.4.v2101.ky10.x86_64

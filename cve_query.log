@@ -1,0 +1,6 @@
+2024-12-02 19:26:42,337 - lib.controller.query - ERROR - Error in query_cve: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 48296 and this is thread id 51192.
+2024-12-02 19:28:01,149 - lib.controller.query - ERROR - Error in query_cve: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 20924 and this is thread id 17580.
+2024-12-02 19:32:25,990 - lib.controller.query - ERROR - Error in query_cve: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 45688 and this is thread id 42344.
+2024-12-02 19:32:42,026 - lib.controller.query - ERROR - Error in query_cve: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 45176 and this is thread id 41676.
+2024-12-02 19:32:59,037 - lib.controller.query - ERROR - Error in query_cve: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 48428 and this is thread id 46048.
+2024-12-02 19:42:24,200 - lib.controller.query - ERROR - Error in query_cve: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 30100 and this is thread id 45720.
